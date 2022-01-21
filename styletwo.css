@@ -1,0 +1,19 @@
+body
+{
+background-image: url("https://www.teahub.io/photos/full/245-2450970_full-hd-blur-background.jpg");
+text-align: center;
+background-position:center ;
+background-repeat: no-repeat;
+background-size: cover;
+font-size: 22px;
+color: white;
+font-family: 'Satisfy', cursive;
+}
+#image1{
+	height: 90px;
+	width: 90px;
+	border-radius:10px;
+}
+#logout{
+    float: right;
+}
